@@ -1,6 +1,6 @@
 # splashscreen
 
-A new Flutter project.
+SplashScreen Practice
 
 ## Getting Started
 
